@@ -1,0 +1,27 @@
+h1{
+    margin: 15px;
+    margin-inline-start: 315px;
+    font-size: 60px
+}
+
+.sub{
+    margin-inline-start: 175px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -65px;
+    
+     }
+h3{
+    font-size: 21px;
+    margin-bottom: 19px;
+}
+
+body{
+    background-color:rgb(0,10,10);
+    background: linear-gradient(106deg, rgba(0,10,10,0.9588414634146342) 20%, rgba(107,63,3,1) 55%, rgba(65,7,11,1) 74%); ;
+}
+
+.sub1{
+    color: rgb(172, 95, 12);
+}
